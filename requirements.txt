@@ -1,0 +1,9 @@
+Faker>=24.0,<40.0
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+fastparquet>=2024.2
+openpyxl>=3.1
+pyarrow>=14.0,<25.0
+pyspark>=3.5,<5.0
+tzdata>=2024.1
+tqdm>=4.66,<5.0
